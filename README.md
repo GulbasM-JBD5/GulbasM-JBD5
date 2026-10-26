@@ -1,3 +1,10 @@
+<div align="center">
+  <h1>Hi, I'm Gülbəs Musayeva 👋</h1>
+  <p><b>IT Student & Backend Developer</b> | Java & Spring Boot</p>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -22,3 +29,10 @@
 
 > 🎮 **Digital Laboratory 3D** *(In Progress)*  
 > **Concept:** Interactive 3D multimedia environment built with **Godot Engine** powered by an **AI-driven backend architecture**.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GulbasM-JBD5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" width="100%" />
+</p>
